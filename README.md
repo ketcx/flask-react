@@ -1,2 +1,2 @@
 # flask-react
- practica
+### Practices with a simple Flask CRUD & React App
